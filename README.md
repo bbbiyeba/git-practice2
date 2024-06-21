@@ -1,1 +1,1 @@
-# Bryce-Biyeba
+# I am an undergraduate student at the University of Maryland, College Park, pursuing a Bachelor of Science in Computer Science. I possess experience in Artificial Intelligence and Machine Learning, Data Structures and Algorithms, as well as Object-Oriented Programming. I am currently seeking Software Engineering positions or other roles related to Computer Science.
